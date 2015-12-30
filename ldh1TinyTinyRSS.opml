@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Fri, 18 Dec 2015 15:13:49 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline type="rss" text="American Civil Liberties Union" xmlUrl="http://www.aclu.org/blog/feed/" htmlUrl="https://www.aclu.org/"/>
+    <outline type="rss" text="computers" xmlUrl="https://www.reddit.com/r/computers/.rss" htmlUrl="https://www.reddit.com/r/computers/"/>
+    <outline type="rss" text="Dave Winer" xmlUrl="http://radio3.io/users/davewiner/rss.xml" htmlUrl="http://scripting.com/"/>
+    <outline type="rss" text="FiveThirtyEight" xmlUrl="http://fivethirtyeight.com/all/feed" htmlUrl="http://fivethirtyeight.com"/>
+    <outline type="rss" text="FT US" xmlUrl="http://www.ft.com/rss/home/us" htmlUrl="http://www.ft.com/home/us"/>
+    <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+    <outline type="rss" text="Hacker News Firehose" xmlUrl="http://hn.geekity.com/newstories.xml" htmlUrl="https://news.ycombinator.com/newest"/>
+    <outline type="rss" text="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+    <outline type="rss" text="memeorandum" xmlUrl="http://www.memeorandum.com/feed.xml" htmlUrl="http://www.memeorandum.com/"/>
+    <outline type="rss" text="MoJo Blogs and Articles | Mother Jones" xmlUrl="http://www.motherjones.com/rss/blogs_and_articles/feed" htmlUrl="http://www.motherjones.com/rss/blogs_and_articles"/>
+    <outline type="rss" text="Re/code" xmlUrl="http://recode.net/feed/" htmlUrl="http://recode.net"/>
+    <outline type="rss" text="Scripting News" xmlUrl="http://scripting.com/rss" htmlUrl="http://scripting.com/"/>
+    <outline type="rss" text="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch/" htmlUrl="http://techcrunch.com"/>
+    <outline type="rss" text="Technology" xmlUrl="https://www.reddit.com/r/technology/.rss" htmlUrl="https://www.reddit.com/r/technology/"/>
+    <outline type="rss" text="Technology - Los Angeles Times" xmlUrl="http://www.latimes.com/business/technology/rss2.0.xml" htmlUrl="http://www.latimes.com/business/technology/rss2.0.xml"/>
+    <outline type="rss" text="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="http://www.theregister.co.uk/"/>
+    <outline type="rss" text="The RISKS Digest" xmlUrl="http://catless.ncl.ac.uk/risksatom.xml" htmlUrl="http://catless.ncl.ac.uk/"/>
+    <outline type="rss" text="Tiny Tiny RSS: Forum" xmlUrl="http://tt-rss.org/forum/rss.php"/>
+    <outline type="rss" text="US news | The Guardian" xmlUrl="http://www.guardian.co.uk/world/usa/rss" htmlUrl="http://www.theguardian.com/us-news"/>
+    <outline type="rss" text="WIRED" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="http://www.wired.com"/>
+    <outline type="rss" text="Zero Hedge" xmlUrl="http://feeds.feedburner.com/zerohedge/feed" htmlUrl="http://www.zerohedge.com/fullrss2.xml/James"/>
+    <outline text="tt-rss-prefs" schema-version="129">
+      <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
+      <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
+      <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
+      <outline pref-name="CDM_AUTO_CATCHUP" value="false"/>
+      <outline pref-name="CDM_EXPANDED" value="true"/>
+      <outline pref-name="_COLLAPSED_FEEDLIST" value="false"/>
+      <outline pref-name="_COLLAPSED_LABELS" value="false"/>
+      <outline pref-name="_COLLAPSED_SPECIAL" value="false"/>
+      <outline pref-name="_COLLAPSED_UNCAT" value="false"/>
+      <outline pref-name="COMBINED_DISPLAY_MODE" value="true"/>
+      <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
+      <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_MODE" value="adaptive"/>
+      <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="default"/>
+      <outline pref-name="DIGEST_CATCHUP" value="false"/>
+      <outline pref-name="DIGEST_ENABLE" value="false"/>
+      <outline pref-name="DIGEST_PREFERRED_TIME" value="00:00"/>
+      <outline pref-name="ENABLE_API_ACCESS" value="false"/>
+      <outline pref-name="_ENABLED_PLUGINS" value=""/>
+      <outline pref-name="ENABLE_FEED_CATS" value="true"/>
+      <outline pref-name="FEEDS_SORT_BY_UNREAD" value="false"/>
+      <outline pref-name="FRESH_ARTICLE_MAX_AGE" value="24"/>
+      <outline pref-name="HIDE_READ_FEEDS" value="false"/>
+      <outline pref-name="HIDE_READ_SHOWS_SPECIAL" value="true"/>
+      <outline pref-name="LONG_DATE_FORMAT" value="D, M d Y - G:i"/>
+      <outline pref-name="_MOBILE_BROWSE_CATS" value="true"/>
+      <outline pref-name="_MOBILE_ENABLE_CATS" value="false"/>
+      <outline pref-name="_MOBILE_HIDE_READ" value="false"/>
+      <outline pref-name="_MOBILE_REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="_MOBILE_SHOW_IMAGES" value="false"/>
+      <outline pref-name="_MOBILE_SORT_FEEDS_UNREAD" value="false"/>
+      <outline pref-name="ON_CATCHUP_SHOW_NEXT_FEED" value="false"/>
+      <outline pref-name="_PREFS_ACTIVE_TAB" value=""/>
+      <outline pref-name="_PREFS_SHOW_EMPTY_CATS" value="false"/>
+      <outline pref-name="PURGE_OLD_DAYS" value="60"/>
+      <outline pref-name="PURGE_UNREAD_ARTICLES" value="true"/>
+      <outline pref-name="REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="SHORT_DATE_FORMAT" value="M d, G:i"/>
+      <outline pref-name="SHOW_CONTENT_PREVIEW" value="true"/>
+      <outline pref-name="SORT_HEADLINES_BY_FEED_DATE" value="false"/>
+      <outline pref-name="SSL_CERT_SERIAL" value=""/>
+      <outline pref-name="STRIP_IMAGES" value="false"/>
+      <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
+      <outline pref-name="_THEME_ID" value="0"/>
+      <outline pref-name="USER_CSS_THEME" value=""/>
+      <outline pref-name="USER_LANGUAGE" value=""/>
+      <outline pref-name="USER_STYLESHEET" value=""/>
+      <outline pref-name="USER_TIMEZONE" value="Automatic"/>
+      <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
+    </outline>
+    <outline text="tt-rss-labels" schema-version="129"/>
+    <outline text="tt-rss-filters" schema-version="129"/>
+  </body>
+</opml>
