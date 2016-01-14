@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Thu, 14 Jan 2016 16:34:53 +0000</dateCreated>
+    <dateCreated>Thu, 14 Jan 2016 19:54:22 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
@@ -16,6 +16,7 @@
     <outline type="rss" text="memeorandum" xmlUrl="http://www.memeorandum.com/feed.xml" htmlUrl="http://www.memeorandum.com/"/>
     <outline type="rss" text="MoJo Blogs and Articles | Mother Jones" xmlUrl="http://www.motherjones.com/rss/blogs_and_articles/feed" htmlUrl="http://www.motherjones.com/rss/blogs_and_articles"/>
     <outline type="rss" text="Product Hunt — The best new products, every day" xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com"/>
+    <outline type="rss" text="Quartz" xmlUrl="http://qz.com/feed" htmlUrl="http://qz.com"/>
     <outline type="rss" text="Re/code" xmlUrl="http://recode.net/feed/" htmlUrl="http://recode.net"/>
     <outline type="rss" text="Scripting News" xmlUrl="http://scripting.com/rss" htmlUrl="http://scripting.com/"/>
     <outline type="rss" text="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch/" htmlUrl="http://techcrunch.com"/>
