@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Thu, 04 Feb 2016 19:00:36 +0000</dateCreated>
+    <dateCreated>Tue, 04 Apr 2017 13:56:54 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
+    <outline type="rss" text="All TPM News" xmlUrl="http://talkingpointsmemo.com/feed/all" htmlUrl="http://talkingpointsmemo.com/news"/>
     <outline type="rss" text="American Civil Liberties Union" xmlUrl="http://www.aclu.org/blog/feed/" htmlUrl="https://www.aclu.org/"/>
     <outline type="rss" text="Ars Technica" xmlUrl="http://arstechnica.com/feed/" htmlUrl="http://arstechnica.com"/>
-    <outline type="rss" text="computers" xmlUrl="https://www.reddit.com/r/computers/.rss" htmlUrl="https://www.reddit.com/r/computers/"/>
     <outline type="rss" text="Dave Winer" xmlUrl="http://radio3.io/users/davewiner/rss.xml" htmlUrl="http://scripting.com/"/>
     <outline type="rss" text="FiveThirtyEight" xmlUrl="http://fivethirtyeight.com/all/feed" htmlUrl="http://fivethirtyeight.com"/>
-    <outline type="rss" text="FT US" xmlUrl="http://www.ft.com/rss/home/us" htmlUrl="http://www.ft.com/home/us"/>
+    <outline type="rss" text="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
     <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
     <outline type="rss" text="Hacker News Firehose" xmlUrl="http://hn.geekity.com/newstories.xml" htmlUrl="https://news.ycombinator.com/newest"/>
     <outline type="rss" text="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
     <outline type="rss" text="memeorandum" xmlUrl="http://www.memeorandum.com/feed.xml" htmlUrl="http://www.memeorandum.com/"/>
     <outline type="rss" text="MoJo Blogs and Articles | Mother Jones" xmlUrl="http://www.motherjones.com/rss/blogs_and_articles/feed" htmlUrl="http://www.motherjones.com/rss/blogs_and_articles"/>
+    <outline type="rss" text="NYT &gt; Politics" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml" htmlUrl="http://www.nytimes.com/pages/politics/index.html?partner=rss&amp;emc=rss"/>
+    <outline type="rss" text="POLITICO - TOP Stories" xmlUrl="http://www.politico.com/rss/politicopicks.xml" htmlUrl="http://www.politico.com/"/>
+    <outline type="rss" text="Politics : NPR" xmlUrl="http://www.npr.org/rss/rss.php?id=1014" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=1014"/>
+    <outline type="rss" text="Post Politics" xmlUrl="http://feeds.washingtonpost.com/rss/politics" htmlUrl="http://www.washingtonpost.com/pb/politics/"/>
+    <outline type="rss" text="Quandl Resource Hub" xmlUrl="https://blog.quandl.com/feed" htmlUrl="https://blog.quandl.com"/>
     <outline type="rss" text="ReadWrite" xmlUrl="http://readwrite.com/.rss/excerpt/" htmlUrl="http://readwrite.com"/>
     <outline type="rss" text="Re/code" xmlUrl="http://recode.net/feed/" htmlUrl="http://recode.net"/>
     <outline type="rss" text="Scripting News" xmlUrl="http://scripting.com/rss" htmlUrl="http://scripting.com/"/>
@@ -25,11 +30,10 @@
     <outline type="rss" text="Technology - Los Angeles Times" xmlUrl="http://www.latimes.com/business/technology/rss2.0.xml" htmlUrl="http://www.latimes.com/business/technology/rss2.0.xml"/>
     <outline type="rss" text="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="http://www.theregister.co.uk/"/>
     <outline type="rss" text="The RISKS Digest" xmlUrl="http://catless.ncl.ac.uk/risksatom.xml" htmlUrl="http://catless.ncl.ac.uk/"/>
-    <outline type="rss" text="Tiny Tiny RSS: Forum" xmlUrl="http://tt-rss.org/forum/rss.php"/>
     <outline type="rss" text="US news | The Guardian" xmlUrl="http://www.guardian.co.uk/world/usa/rss" htmlUrl="http://www.theguardian.com/us-news"/>
     <outline type="rss" text="WIRED" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="http://www.wired.com"/>
     <outline type="rss" text="Zero Hedge" xmlUrl="http://feeds.feedburner.com/zerohedge/feed" htmlUrl="http://www.zerohedge.com/fullrss2.xml/James"/>
-    <outline text="tt-rss-prefs" schema-version="129">
+    <outline text="tt-rss-prefs" schema-version="130">
       <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
       <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
       <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
@@ -83,7 +87,7 @@
       <outline pref-name="USER_TIMEZONE" value="Automatic"/>
       <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
     </outline>
-    <outline text="tt-rss-labels" schema-version="129"/>
-    <outline text="tt-rss-filters" schema-version="129"/>
+    <outline text="tt-rss-labels" schema-version="130"/>
+    <outline text="tt-rss-filters" schema-version="130"/>
   </body>
 </opml>
