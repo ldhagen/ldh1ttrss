@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Tue, 04 Apr 2017 13:56:54 +0000</dateCreated>
+    <dateCreated>Thu, 06 Apr 2017 16:33:55 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
@@ -28,6 +28,7 @@
     <outline type="rss" text="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch/" htmlUrl="http://techcrunch.com"/>
     <outline type="rss" text="Technology" xmlUrl="https://www.reddit.com/r/technology/.rss" htmlUrl="https://www.reddit.com/r/technology/"/>
     <outline type="rss" text="Technology - Los Angeles Times" xmlUrl="http://www.latimes.com/business/technology/rss2.0.xml" htmlUrl="http://www.latimes.com/business/technology/rss2.0.xml"/>
+    <outline type="rss" text="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.com/blog"/>
     <outline type="rss" text="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="http://www.theregister.co.uk/"/>
     <outline type="rss" text="The RISKS Digest" xmlUrl="http://catless.ncl.ac.uk/risksatom.xml" htmlUrl="http://catless.ncl.ac.uk/"/>
     <outline type="rss" text="US news | The Guardian" xmlUrl="http://www.guardian.co.uk/world/usa/rss" htmlUrl="http://www.theguardian.com/us-news"/>
