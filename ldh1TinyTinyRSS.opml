@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Thu, 06 Apr 2017 16:33:55 +0000</dateCreated>
+    <dateCreated>Fri, 07 Apr 2017 14:34:11 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
@@ -20,6 +20,7 @@
     <outline type="rss" text="POLITICO - TOP Stories" xmlUrl="http://www.politico.com/rss/politicopicks.xml" htmlUrl="http://www.politico.com/"/>
     <outline type="rss" text="Politics : NPR" xmlUrl="http://www.npr.org/rss/rss.php?id=1014" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=1014"/>
     <outline type="rss" text="Post Politics" xmlUrl="http://feeds.washingtonpost.com/rss/politics" htmlUrl="http://www.washingtonpost.com/pb/politics/"/>
+    <outline type="rss" text="Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="http://googleprojectzero.blogspot.com/"/>
     <outline type="rss" text="Quandl Resource Hub" xmlUrl="https://blog.quandl.com/feed" htmlUrl="https://blog.quandl.com"/>
     <outline type="rss" text="ReadWrite" xmlUrl="http://readwrite.com/.rss/excerpt/" htmlUrl="http://readwrite.com"/>
     <outline type="rss" text="Re/code" xmlUrl="http://recode.net/feed/" htmlUrl="http://recode.net"/>
@@ -48,7 +49,7 @@
       <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
       <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
       <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
-      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="30"/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="15"/>
       <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
       <outline pref-name="_DEFAULT_VIEW_MODE" value="adaptive"/>
       <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="default"/>
@@ -82,8 +83,8 @@
       <outline pref-name="STRIP_IMAGES" value="false"/>
       <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
       <outline pref-name="_THEME_ID" value="0"/>
-      <outline pref-name="USER_CSS_THEME" value=""/>
-      <outline pref-name="USER_LANGUAGE" value=""/>
+      <outline pref-name="USER_CSS_THEME" value="default.css"/>
+      <outline pref-name="USER_LANGUAGE" value="auto"/>
       <outline pref-name="USER_STYLESHEET" value=""/>
       <outline pref-name="USER_TIMEZONE" value="Automatic"/>
       <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
