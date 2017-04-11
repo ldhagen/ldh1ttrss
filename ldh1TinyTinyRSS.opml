@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Fri, 07 Apr 2017 14:34:11 +0000</dateCreated>
+    <dateCreated>Tue, 11 Apr 2017 21:24:25 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
@@ -13,6 +13,7 @@
     <outline type="rss" text="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
     <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
     <outline type="rss" text="Hacker News Firehose" xmlUrl="http://hn.geekity.com/newstories.xml" htmlUrl="https://news.ycombinator.com/newest"/>
+    <outline type="rss" text="ISR Ideas" xmlUrl="http://isr-ideas.com/feed/" htmlUrl="http://isr-ideas.com"/>
     <outline type="rss" text="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
     <outline type="rss" text="memeorandum" xmlUrl="http://www.memeorandum.com/feed.xml" htmlUrl="http://www.memeorandum.com/"/>
     <outline type="rss" text="MoJo Blogs and Articles | Mother Jones" xmlUrl="http://www.motherjones.com/rss/blogs_and_articles/feed" htmlUrl="http://www.motherjones.com/rss/blogs_and_articles"/>
